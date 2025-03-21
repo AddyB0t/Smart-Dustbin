@@ -11,7 +11,7 @@ A smart dustbin that automatically opens when a person approaches, enhancing hyg
 - **Hygienic Design**: Minimizes physical contact with the dustbin, making it ideal for public places.
 - **Easy to Use**: Simple setup and operation with clear instructions.
 
-## APPARATUS REQUIRED
+## Appartus Required
 
 1. **Arduino Uno** – The microcontroller that controls the project.
 2. **Ultrasonic Sensor (HC-SR04)** – To detect the distance of an object (i.e., when someone is near).
@@ -19,7 +19,7 @@ A smart dustbin that automatically opens when a person approaches, enhancing hyg
 4. **Jumper Wires** – For connections.
 5. **Dustbin** – The physical bin to automate.
 
-## THEORY
+## Theroy
 
 A Smart Dustbin using Arduino Uno is an automated waste container designed to improve hygiene and convenience. The main concept revolves around minimizing physical contact when disposing of waste, making it especially useful in public places or in situations where cleanliness is crucial.
 
@@ -45,7 +45,7 @@ This project not only enhances hygiene but also offers a more modern, automated 
    - Select the appropriate board and port in the Arduino IDE.
    - Click the upload button to upload the code to your Arduino.
 
-## PROCEDURE
+## Procedure
 
 1. **Assemble the Components**:
    - Assemble the components on a breadboard as per the circuit diagram.
@@ -63,11 +63,11 @@ This project not only enhances hygiene but also offers a more modern, automated 
 3. **Test the Model**:
    - After uploading the code, test the model to ensure it functions correctly.
 
-## RESULT
+## Result
 
 The Smart Dustbin successfully detects when a person approaches within 20cm and automatically opens the lid. After a 2-second delay, the lid closes again.
 
-## PRECAUTIONS
+## Precautions
 
 1. All the connections should be tight.
 2. Handle all the equipment carefully.
